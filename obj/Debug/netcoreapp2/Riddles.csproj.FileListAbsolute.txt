@@ -1,0 +1,11 @@
+C:\Users\lanor\Desktop\sphinx\bin\Debug\netcoreapp2\Riddles.deps.json
+C:\Users\lanor\Desktop\sphinx\bin\Debug\netcoreapp2\Riddles.runtimeconfig.json
+C:\Users\lanor\Desktop\sphinx\bin\Debug\netcoreapp2\Riddles.runtimeconfig.dev.json
+C:\Users\lanor\Desktop\sphinx\bin\Debug\netcoreapp2\Riddles.dll
+C:\Users\lanor\Desktop\sphinx\bin\Debug\netcoreapp2\Riddles.pdb
+C:\Users\lanor\Desktop\sphinx\obj\Debug\netcoreapp2\Riddles.csprojAssemblyReference.cache
+C:\Users\lanor\Desktop\sphinx\obj\Debug\netcoreapp2\Riddles.csproj.CoreCompileInputs.cache
+C:\Users\lanor\Desktop\sphinx\obj\Debug\netcoreapp2\Riddles.AssemblyInfoInputs.cache
+C:\Users\lanor\Desktop\sphinx\obj\Debug\netcoreapp2\Riddles.AssemblyInfo.cs
+C:\Users\lanor\Desktop\sphinx\obj\Debug\netcoreapp2\Riddles.dll
+C:\Users\lanor\Desktop\sphinx\obj\Debug\netcoreapp2\Riddles.pdb

@@ -1,0 +1,4 @@
+namespace Sphinx.Riddles
+{
+    
+}
